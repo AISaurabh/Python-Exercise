@@ -1,0 +1,14 @@
+#Example No. 2
+class songs:
+    def __init__(self,lyrics):
+        self.lyrics=lyrics
+    def sing_me_a_song(self):
+        for i in range(len(self.lyrics)):
+            print(self.lyrics[i])
+
+happy_bday = songs(["May god bless you, ",
+                   "Have a sunshine on you,",
+                   "Happy Birthday to you !"])
+
+happy_bday.sing_me_a_song()
+
