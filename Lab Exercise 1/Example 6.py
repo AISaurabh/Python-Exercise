@@ -1,4 +1,7 @@
 #Example no.6
+#Q6: Write a Python Program to find the area of triangle
+# Three sides of the triangle a, b and c are provided by the user
+
 
 import math
 a=float(input('Side a of triangle is :'))

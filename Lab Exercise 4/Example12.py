@@ -1,4 +1,6 @@
 #Example No. 12
+#Q12: Program to count the number of each vowel in a string
+
 
 a=str(input("Enter the string :",))
 b='aeiouAEIOU'

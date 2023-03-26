@@ -1,4 +1,11 @@
 #Example No. 5
+#Q5: Write a Python Program to Solve the quadratic equation ax**2 + bx + c = 0
+# Coeffients a, b and c are provided by the user
+
+#[Hint: import complex math module - import cmath]
+
+
+
 
 import cmath
 a=int(input('Enter the coefficient of a:'))

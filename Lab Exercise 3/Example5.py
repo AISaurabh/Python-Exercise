@@ -1,4 +1,7 @@
 #Example No. 5
+#Q5: Write a Python program to add 'ing' at the end of a given string (length should be at least 3). 
+#If the given string is already ends with 'ing' then add 'ly' instead.
+
 
 a=str(input("The string is :",))
 if (len(a)>=3):
