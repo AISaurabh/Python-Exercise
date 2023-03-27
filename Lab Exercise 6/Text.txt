@@ -1,3 +1,0 @@
-Python is computer programming language.
-Python language is easy to understand.
-Python is high level language.
